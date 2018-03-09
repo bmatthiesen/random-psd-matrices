@@ -1,7 +1,7 @@
 Sampling Uniformly From the Set of Positive Definite Matrices With Trace Constraint
 ==================
 
-This is some additional material for the journal article:
+This is the MATLAB implementation of the sampling algorithm referenced in:
 
 Martin Mittelbach, Bho Matthiesen, and Eduard Jorswieck, "[Sampling Uniformly From the Set of Positive Definite Matrices With Trace Constraint](http://dx.doi.org/10.1109/TSP.2012.2186447)," IEEE Transactions on Signal Processing, vol. 60, no. 5, pp. 2167-2179, May 2012.
 
