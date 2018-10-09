@@ -18,4 +18,4 @@ This research was supported in part by the Deutsche Forschungsgemeinschaft (DFG)
 
 ## License and Referencing
 
-This code is licensed under the GPLv3 license. If you in any way use this code for research that results in publications, please cite our original article listed above.
+This code is licensed under the GPLv2 license. If you in any way use this code for research that results in publications, please cite our original article listed above.
